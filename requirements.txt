@@ -1,0 +1,4 @@
+Pillow==9.5.0
+pystray==0.19.4
+watchdog==3.0.0
+wxPython==4.2.0
